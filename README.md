@@ -40,7 +40,7 @@ This command will build the Docker images and start the containers for the API, 
 
 Once the containers are up and running, you can access the API documentation using Swagger UI:
 
-Open your web browser and go to: http://localhost:8080/swagger-ui.html
+Open your web browser and go to: http://localhost:8080/swagger-ui/
 
 You will see the Swagger UI interface with the available routes and their descriptions. You can test the API endpoints directly from the Swagger UI.
 
